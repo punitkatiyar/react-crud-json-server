@@ -8,7 +8,7 @@
 
 ## D : delete
 
-# project setup
+# Project Setup
 
 > npx create-react-app crud-app
 
@@ -20,5 +20,9 @@
 
 > npm install react-icons --save
 
+## Create Data 
 
+## View All Data
+
+## View Single Data
 
